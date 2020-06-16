@@ -1,0 +1,8 @@
+[0421/113010:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[0421/113010:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[0421/113010:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[0421/113010:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[0421/113010:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[0421/113010:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[0616/155521:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Обычно разрешается только одно использование адреса сокета (протокол/сетевой адрес/порт). (0x2740)
+[0616/155521:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
