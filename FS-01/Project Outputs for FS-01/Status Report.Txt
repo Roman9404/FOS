@@ -1,0 +1,14 @@
+Source PCB Design FS-00 MULTIPLATE.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FS-01.PrjPcb]
+   Generated File[FS-00 MULTIPLATE.TXT]
+   Generated File[FS-00 MULTIPLATE.LDP]
+   Generated File[FS-00 MULTIPLATE.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:52:32 On 17.06.2020

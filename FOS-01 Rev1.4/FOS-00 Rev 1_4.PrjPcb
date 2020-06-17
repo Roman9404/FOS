@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HEBLJHRS
 
 [Document2]
-DocumentPath=FOS 00_02_00_02 Rev 1_4.PcbDoc
+DocumentPath=FOS 00_01 Rev 1_5.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EPJPAWBC
 
 [Document3]
-DocumentPath=FOS 00_01_00_01 Rev 1_4.PcbDoc
+DocumentPath=FOS 00 Rev 1_5.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OSCUMRSR
 
 [Document4]
-DocumentPath=FOS 00_01_00_01 MULTIPLATE Rev 1_4.PcbDoc
+DocumentPath=FOS 00 MULTIPLATE Rev 1_5.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TNLJDXKU
 
 [Document5]
-DocumentPath=FOS 00_02_00_02 MULTIPLATE Rev 1_4.PcbDoc
+DocumentPath=FOS 00_01 MULTIPLATE Rev 1_5.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -155,6 +155,226 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document8]
+DocumentPath=FOS-00 Rev 1_5.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=FOS-00_01 Rev 1_5.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=FOS-00 Rev 1_5 DRILL.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document11]
+DocumentPath=FOS-00_01 Rev 1_5 DRILL.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.REP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00 MULTIPLATE Rev 1_5.TXT
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -466,7 +686,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft XPS Document Writer
+TargetPrinter=Brother MFC-J6910DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
