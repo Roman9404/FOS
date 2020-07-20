@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=VD1-2
+Change component parameters: Designator = "C1"; Footprint = "CAP1206"; UniqueID = "\BFJWWBMQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR5_2 Pin=C2-1
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetC2_1
