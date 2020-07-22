@@ -1,14 +1,14 @@
-Source PCB Design FOS 00_01 MULTIPLATE Rev 1_5.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+Source PCB Design FOS 00_01 MULTIPLATE Rev 1_6.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
 
 Output: NC Drill Files
 Type  : NC Drill
 From  : Project [FOS-00 Rev 1_4.PrjPcb]
-   Generated File[FOS 00_01 MULTIPLATE Rev 1_5.TXT]
-   Generated File[FOS 00_01 MULTIPLATE Rev 1_5.LDP]
-   Generated File[FOS 00_01 MULTIPLATE Rev 1_5.DRR]
+   Generated File[FOS 00_01 MULTIPLATE Rev 1_6.TXT]
+   Generated File[FOS 00_01 MULTIPLATE Rev 1_6.LDP]
+   Generated File[FOS 00_01 MULTIPLATE Rev 1_6.DRR]
 
 
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 15:54:59 On 20.07.2020
+Finished Output Generation At 11:56:40 On 22.07.2020

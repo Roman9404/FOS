@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HEBLJHRS
 
 [Document2]
-DocumentPath=FOS 00_01 Rev 1_5.PcbDoc
+DocumentPath=FOS 00_01 Rev 1_6.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,23 +72,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EPJPAWBC
 
 [Document3]
-DocumentPath=FOS 00 Rev 1_5.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OSCUMRSR
-
-[Document4]
 DocumentPath=FOS 00 MULTIPLATE Rev 1_5.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,8 +88,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNLJDXKU
 
+[Document4]
+DocumentPath=FOS 00 Rev 1_5.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OSCUMRSR
+
 [Document5]
-DocumentPath=FOS 00_01 MULTIPLATE Rev 1_5.PcbDoc
+DocumentPath=FOS 00_01 MULTIPLATE Rev 1_6.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -191,7 +191,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=FOS-00_01 Rev 1_5.Cam
+DocumentPath=FOS-00_01 Rev 1_6.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -208,7 +208,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=FOS-00_01 Rev 1_5 DRILL.Cam
+DocumentPath=FOS-00_01 Rev 1_6 DRILL.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -225,79 +225,79 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.DRR
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.EXTREP
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GBL
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GBO
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GBP
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GBS
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GD1
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GG1
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GKO
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GPB
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GPT
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GTL
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GTO
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GTP
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.GTS
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.LDP
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.REP
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.REP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.RUL
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_5.TXT
+DocumentPath=Project Outputs for FOS-00 Rev 1_4\FOS 00_01 MULTIPLATE Rev 1_6.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument20]
@@ -628,7 +628,7 @@ PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Microsoft XPS Document Writer
+TargetPrinter=Brother MFC-J6910DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -676,7 +676,7 @@ OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=False|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=True|IncludeVariations=True|Filter=(Layer = 'TopLayer') AND ((Comment = 'Resistor') OR (Comment = 'PNP') OR (Comment = 'Diode Bridge') OR (Comment = 'Capacitor') OR (Comment = 'BAV23S'))|FilterActive=True|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:Ascending,SortIndex:0,Position:2|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:4|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:5|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:7|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:10|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:15|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:16|Column#17=Name:Value,Fixed:False,Metric:False,Visible:True,Sort:None,Position:1
+Configuration2_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=True|IncludeVariations=True|Filter=(Layer = 'TopLayer') AND ((Comment = 'Resistor') OR (Comment = 'PNP') OR (Comment = 'Diode Bridge') OR (Comment = 'Capacitor') OR (Comment = 'BAV23S'))|FilterActive=True|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:False,Sort:Ascending,SortIndex:0,Position:2|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:False,Sort:None,Position:3|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:4|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:5|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:7|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:10|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:15|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:16|Column#17=Name:Value,Fixed:False,Metric:False,Visible:True,Sort:None,Position:1
 OutputType3=Test Points For Assembly
 OutputName3=Test Point Report
 OutputDocumentPath3=

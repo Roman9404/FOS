@@ -1,0 +1,28 @@
+Altium Designer Pick and Place Locations
+\\192.168.0.241\обмен\КО\Красноперов Р.А\FOS\FOS_for_NefAZ\FOS-01 Rev1.4\Project Outputs for FOS-00 Rev 1_4\Pick Place for FOS 00 Rev 1_5.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       22.07.20
+Time:       11:15
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Value  Footprint Center-X(mm) Center-Y(mm) Rotation 
+VD7        BAV23S SOT_23    87.500       4.500        360      
+VD15       BAV23S SOT_23    139.075      4.875        0        
+VD22       BAV23S SOT_23    152.725      7.700        180      
+C1         1 uF   CAP1206   71.000       13.000       360      
+VD14       B1S    DB-1MS    58.000       11.500       270      
+VT1        BCP53  SOT223    75.625       6.000        90       
+VT2        BCP53  SOT223    127.125      6.000        90       
+VT3        BCP53  SOT223    164.375      5.750        270      
+R2         20 Om  RES1206   83.150       9.525        360      
+R3         10 kOm RES1206   82.525       3.875        90       
+R4         10 Om  RES1206   136.450      9.625        0        
+R5         10 kOm RES1206   133.800      4.025        90       
+R6         33 Om  RES1206   66.500       8.000        180      
+R7         10 Om  RES1206   156.475      3.800        180      
+R8         10 kOm RES1206   157.750      8.575        270      
