@@ -10,9 +10,9 @@ D20   RECTANGULAR        72.835      61.024       0.000 FLASH     180.000
 D21   RECTANGULAR        72.835      45.276       0.000 FLASH      90.000
 D22   RECTANGULAR        39.370      45.276       0.000 FLASH      90.000
 D23   ROUNDED            78.740      78.740       0.000  LINE       0.000
-D24   ROUNDED            39.370      39.370       0.000  LINE       0.000
+D24   ROUNDED            31.496      31.496       0.000  LINE       0.000
 D25   ROUNDED            47.244      47.244       0.000  LINE       0.000
-D26   ROUNDED            31.496      31.496       0.000  LINE       0.000
+D26   ROUNDED            39.370      39.370       0.000  LINE       0.000
 D27   ROUNDED            31.496      31.496       0.000 FLASH       0.000
 D28   RECTANGULAR        78.740     110.236       0.000 FLASH     180.000
 D29   ROUNDED             9.842       9.842       0.000  LINE       0.000
